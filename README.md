@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankudayawal&label=Profile%20views&color=0e75b6&style=flat" alt="BOT-Hunter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bot-hunter&label=Profile%20views&color=0e75b6&style=flat" alt="BOT-Hunter" /> </p>
 
 
 
@@ -70,13 +70,13 @@
 ## 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=bot-hunter&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivankudayawal&theme=react&hide_border=true&bg_color=0D1117)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivankudayawal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bot-hunter&theme=react&hide_border=true&bg_color=0D1117)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bot-hunter&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivankudayawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bot-hunter&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=shivankudayawal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bot-hunter&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
