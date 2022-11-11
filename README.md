@@ -13,31 +13,22 @@
 
 - 🔭 I’m currently working on **Convolutional Neural Network**
 
-- 🌱 I’m currently learning **Neural Network, Google Cloud Platform, AWS and Azure**
+- 🌱 I’m currently learning **Neural Networks, Apache Spark, Time-series**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Science & Deep Learning Projects**
 
-- 🤝 I’m looking for help with **Time Series & Big Data**
-
 - 👨‍💻 All of my projects are available at **https://github.com/BOT-Hunter**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning and Python**
 
 - 📫 How to reach me **mishraji.ds@gmail.com**
 
-- 📄 Know about my experiences **Machine Learning Engineer & Data Scientist**
-
-- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst** | **Deep Learning** | **Convolutional Neural Network**
-
-- 🎯 2022 Goals: **Learn and Contribute more towards Data Science Community**
-
-- ⚡ Fun fact **I think I am funny**
+- 🎯 Annual Goals: **Learn and Contribute more towards Data Science Community**
 
 <br/>
 
 ## 💻Tech Stack: Languages and Tools
  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -46,7 +37,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
